@@ -1,0 +1,17 @@
+.contactme-container {
+  display: flex;
+  background-color: aliceblue;
+  flex-flow: column;
+}
+
+.dateinput {
+  width: 50%;
+}
+
+.anotherflex {
+  display: flex;
+}
+
+.label_input-box {
+  margin-right: 10px;
+}
